@@ -1,0 +1,1 @@
+This is a web application that checks a string of numbers, splits it in half and adds up both sides separately. It then checks to see if both sides equal each other and returns TRUE if it does and FALSE if it does not.
