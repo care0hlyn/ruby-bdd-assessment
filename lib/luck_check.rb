@@ -27,4 +27,4 @@ def luck_check number
 p value
 end
 
-luck_check("813372")
+luck_check("8133727")
