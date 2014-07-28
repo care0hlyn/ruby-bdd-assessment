@@ -12,10 +12,6 @@ def luck_check number
 	head = str_array[0..(half-1)]
 	tail = str_array[half..-1]
 
-	p half
-	p head
-	p tail
-
 	value = ""
 
 	if head.inject(:+) == tail.inject(:+)
@@ -26,5 +22,3 @@ def luck_check number
 
 p value
 end
-
-luck_check("8133727")
